@@ -24,13 +24,21 @@ const config = {
   },
   plugins: [
   new HtmlWebpackPlugin({
-    title: 'opensheetmusicdisplay | webpack-usage-example',
+    title: 'Tactus Trainer',
     favicon: 'resources/favicon.ico' // not providing a favicon.ico can cause 404 warnings
   }),
   new CopyWebpackPlugin([
+  // {
+  //   from: 'resources/boiler_plate.xml',
+  //   to: 'musicXmlSample.xml'
+  // },
   {
-    from: 'resources/MuzioClementi_SonatinaOpus36No1_Part1.xml',
-    to: 'musicXmlSample.xml'
+    from: 'resources/*.xml',
+    to: ''
+  },
+  {
+    from: 'resources/dynamics/*.xml',
+    to: ''
   },
   ])
   ]
