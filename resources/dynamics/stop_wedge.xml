@@ -1,0 +1,8 @@
+<measure>
+<direction>
+    <direction-type>
+       <wedge type="stop" spread="15"/>
+    </direction-type>
+    <offset>2</offset>
+ </direction>
+</measure>

@@ -1,0 +1,54 @@
+<measure width="214.99">
+    <print>
+        <system-layout>
+            <system-margins>
+                <left-margin>120.31</left-margin>
+                <right-margin>0.00</right-margin>
+            </system-margins>
+            <top-system-distance>281.11</top-system-distance>
+        </system-layout>
+    </print>
+    <note default-x="105.14" default-y="-5.00">
+        <pitch>
+            <step>E</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+    </note>
+    <note default-x="71.83" default-y="-15.00">
+        <pitch>
+            <step>C</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem>down</stem>
+    </note>
+    <note default-x="105.14" default-y="-5.00">
+        <pitch>
+            <step>F</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+    </note>
+    <note default-x="71.83" default-y="-15.00">
+        <pitch>
+            <step>D</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+        <stem>down</stem>
+    </note>
+    
+</measure>

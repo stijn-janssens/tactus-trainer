@@ -1,0 +1,153 @@
+<measure width="214.99">
+    <!-- First Beam Group (4 sixteenth notes) -->
+    <note>
+        <pitch>
+            <step>C</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">begin</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>E</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>G</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>D</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">end</beam>
+    </note>
+
+    <!-- Second Beam Group (4 sixteenth notes) -->
+    <note>
+        <pitch>
+            <step>F</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">begin</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>A</step>
+            <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>B</step>
+            <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>G</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">end</beam>
+    </note>
+
+    <!-- Third Beam Group (4 sixteenth notes) -->
+    <note>
+        <pitch>
+            <step>E</step>
+            <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">begin</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>F</step>
+            <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>D</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>C</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">end</beam>
+    </note>
+
+    <!-- Fourth Beam Group (4 sixteenth notes) -->
+    <note>
+        <pitch>
+            <step>B</step>
+            <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">begin</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>A</step>
+            <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>G</step>
+            <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>E</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <beam number="1">end</beam>
+    </note>
+</measure>

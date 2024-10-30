@@ -1,0 +1,215 @@
+<measure width="214.99">
+    <print>
+        <system-layout>
+            <system-margins>
+                <left-margin>120.31</left-margin>
+                <right-margin>0.00</right-margin>
+            </system-margins>
+            <top-system-distance>281.11</top-system-distance>
+        </system-layout>
+    </print>
+    <note>
+        <pitch>
+            <step>E</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration> <!-- Half note duration for each note -->
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <notations>
+            <tuplet type="start"/>
+        </notations>
+        <beam number="1">begin</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>F</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration> <!-- Half note duration for each note -->
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <beam number="1">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>E</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration> <!-- Half note duration for each note -->
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <notations>
+            <tuplet type="stop"/>
+        </notations>
+        <tie type="start"/>
+        <notations>
+            <tied type="start"/>
+        </notations>
+        <beam number="1">stop</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>E</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration> <!-- Half note duration for each note -->
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <notations>
+            <tuplet type="start"/>
+        </notations>
+        <beam number="2">begin</beam>
+        <tie type="stop"/>
+        <notations>
+            <tied type="stop"/>
+        </notations>
+    </note>
+    <note>
+        <pitch>
+            <step>F</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration> <!-- Half note duration for each note -->
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <beam number="2">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>E</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration> <!-- Half note duration for each note -->
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <beam number="2">stop</beam>
+        <notations>
+            <tuplet type="stop"/>
+        </notations>
+        <tie type="start"/>
+        <notations>
+            <tied type="start"/>
+        </notations>
+    </note>
+    <note>
+        <pitch>
+            <step>E</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration> <!-- Half note duration for each note -->
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <notations>
+            <tuplet type="start"/>
+        </notations>
+        <beam number="1">begin</beam>
+        <tie type="stop"/>
+        <notations>
+            <tied type="stop"/>
+        </notations>
+    </note>
+    <note>
+        <pitch>
+            <step>D</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration> <!-- Half note duration for each note -->
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <beam number="1">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>E</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration> <!-- Half note duration for each note -->
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <notations>
+            <tuplet type="stop"/>
+        </notations>
+        <tie type="start"/>
+        <beam number="1">stop</beam>
+        <notations>
+            <tied type="start"/>
+        </notations>
+    </note>
+    <note>
+        <pitch>
+            <step>E</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration> <!-- Half note duration for each note -->
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <beam number="2">begin</beam>
+        <notations>
+            <tuplet type="start"/>
+        </notations>
+        <tie type="stop"/>
+        <notations>
+            <tied type="stop"/>
+        </notations>
+    </note>
+    <note>
+        <pitch>
+            <step>C</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration> <!-- Half note duration for each note -->
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <beam number="2">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>D</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration> <!-- Half note duration for each note -->
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <notations>
+            <tuplet type="stop"/>
+        </notations>
+        <beam number="2">stop</beam>
+    </note>
+</measure>
