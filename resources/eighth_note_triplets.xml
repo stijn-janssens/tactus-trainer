@@ -1,0 +1,199 @@
+<measure width="214.99">
+    <print>
+        <system-layout>
+            <system-margins>
+                <left-margin>120.31</left-margin>
+                <right-margin>0.00</right-margin>
+            </system-margins>
+            <top-system-distance>281.11</top-system-distance>
+        </system-layout>
+    </print>
+
+    <!-- First triplet -->
+    <note>
+        <pitch>
+            <step>E</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <notations>
+            <tuplet type="start"/>
+        </notations>
+        <beam number="1">begin</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>F</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <beam number="1">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>E</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <notations>
+            <tuplet type="stop"/>
+        </notations>
+        <beam number="1">end</beam>
+    </note>
+
+    <!-- Second triplet -->
+    <note>
+        <pitch>
+            <step>G</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <notations>
+            <tuplet type="start"/>
+        </notations>
+        <beam number="1">begin</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>F</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <beam number="1">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>G</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <notations>
+            <tuplet type="stop"/>
+        </notations>
+        <beam number="1">end</beam>
+    </note>
+
+    <!-- Third triplet -->
+    <note>
+        <pitch>
+            <step>A</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <notations>
+            <tuplet type="start"/>
+        </notations>
+        <beam number="1">begin</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>F</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <beam number="1">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>D</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <notations>
+            <tuplet type="stop"/>
+        </notations>
+        <beam number="1">end</beam>
+    </note>
+
+    <!-- Fourth triplet -->
+    <note>
+        <pitch>
+            <step>E</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <notations>
+            <tuplet type="start"/>
+        </notations>
+        <beam number="1">begin</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>C</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <beam number="1">continue</beam>
+    </note>
+    <note>
+        <pitch>
+            <step>D</step>
+            <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <time-modification>
+            <actual-notes>3</actual-notes>
+            <normal-notes>2</normal-notes>
+        </time-modification>
+        <notations>
+            <tuplet type="stop"/>
+        </notations>
+        <beam number="1">end</beam>
+    </note>
+</measure>

@@ -1,0 +1,30 @@
+<measure width="214.99">
+    <print>
+        <system-layout>
+            <system-margins>
+                <left-margin>120.31</left-margin>
+                <right-margin>0.00</right-margin>
+            </system-margins>
+            <top-system-distance>281.11</top-system-distance>
+        </system-layout>
+    </print>
+    
+    <note default-x="12.47" default-y="-70.00">
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+        <note default-x="12.47" default-y="-70.00">
+            <pitch>
+              <step>G</step>
+              <octave>4</octave>
+              </pitch>
+            <duration>4</duration>
+            <voice>1</voice>
+            <type>half</type>
+            </note>
+</measure>
